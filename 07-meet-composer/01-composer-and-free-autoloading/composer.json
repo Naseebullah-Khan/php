@@ -1,0 +1,16 @@
+{
+  "name": "naseeb_khan/01-composer-and-free-autoloading",
+  "authors": [
+    {
+      "name": "Naseeb Khan",
+      "email": "110621136+Naseebullah-Khan@users.noreply.github.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Core\\": "Core/",
+      "Http\\": "Http/"
+    }
+  }
+}
